@@ -94,3 +94,12 @@ Type `quit` to exit.
 ## License
 
 MIT License. See [LICENSE](LICENSE).
+## 📸 Screenshots
+
+### Game Start
+
+![Chess Game Start](screenshots/Screenshot%202026-08-28%20at%2021.40.45.png)
+
+### Gameplay
+
+![Chess Game Gameplay](screenshots/Screenshot%202026-08-28%20at%2021.41.05.png)
